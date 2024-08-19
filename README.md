@@ -1,0 +1,3 @@
+# Sobre
+Este projeto é apenas uma simples api criada com golang e o Framework gin-gonic, apos sair do basico estudando golang , pensei em fazer algo mais desafiador assim pesquisei sobre e acabei achando este [tutorial do youtube](https://youtu.be/3p4mpId_ZU8?si=qtIaUiM4B1_HsTUu), com uma otima didatica conseguir seguir os passos e acabei criando e esta api simples
+com algumas rotas de criar produtos, listar produtos e pesquisar produtos por id,Utilizando postgres como banco de dados em um container docker localmente , foi possivel armazenar os dados criados , Oque me ajudou bastante e ainda fez eu interessar ainda mais por docker que atualmente estou estudando.
